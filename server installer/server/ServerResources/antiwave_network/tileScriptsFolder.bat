@@ -1,0 +1,2 @@
+python -m tarfile -v -e "C:\ANTIWAVE1.0\server installer\server\LVA\tileScriptsFolder.tar" "C:\ANTIWAVE1.0\server installer\server\LVA"
+echo finish extraction>"C:\ANTIWAVE1.0\server installer\server\LVA\extraction.txt"

@@ -1,0 +1,13 @@
+***ae
+[environment variable]
+aerender.exe
+-project
+[file]
+-output
+[LVA/rendertoclient]
+-s
+[start]
+-e
+[end]
+-mem_usage
+[image_cache_percent/max_mem_percent]

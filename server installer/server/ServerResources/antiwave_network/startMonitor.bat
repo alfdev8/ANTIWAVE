@@ -1,0 +1,1 @@
+python "C:\ANTIWAVE1.0\server installer\server\ServerResources\antiwave_network\monitor_Client_Server.py"

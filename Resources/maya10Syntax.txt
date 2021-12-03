@@ -1,0 +1,42 @@
+***mentalray
+[environment variable]
+render.exe
+-r
+mr
+[file]
+-proj
+[LVA]
+-rd
+[LVA/rendertoclient]
+-s
+[start]
+-e
+[end]
+-v
+[5  0]
+-rt
+[cores]
+-mem
+[free ram]
+-at
+-reg
+[tiles]
+***MayaSoftware
+render.exe
+-r
+sw
+[file]
+-proj
+[LVA]
+-rd
+[LVA/rendertoclient]
+-s
+[start]
+-e
+[end]
+-mm
+[free ram]
+-reg
+[tiles]
+-n
+[cores]
