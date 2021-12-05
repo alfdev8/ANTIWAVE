@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+## Welcome to ANTIWAVE GitHub Info Page
 
-You can use the [editor on GitHub](https://github.com/alfdev8/ANTIWAVE/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### ANTIWAVE 1.0.0
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+ANTIWAVE 1.0.0 is a distributed network render system solution that integrates Adobe After Effects, Autodesk Maya Software and mentalray for Autodesk Maya.
 
 ```markdown
-Syntax highlighted code block
+Special features:
 
-# Header 1
-## Header 2
-### Header 3
+1. Assign the appropriated workload for each node.
+#   this is unstable.
+2. Tile Mode for low specs equipment.
+#   this is stable.
+3. Frame Mode for high specs equipment.
+#   this is stable
+4. Integrates Adobe After Effects.
+#   this is stable
+5. Integrates Autodesk Maya Software.
+#   this is stable
+6. Integrates NVIDIA mentalray for Autodesk Maya
+#   this is stable
+  
+Integrating Adobe After Effects allows the user to merge the tiles in a very efficient way.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
+For more details see: [User Manual](https://github.com/alfdev8/ANTIWAVE/blob/main/UserManual%20ANTIWAVE%201.pdf).
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+# ANTIWAVE 1.0.0 Works in Windows 8 with Python 3.9.2
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/alfdev8/ANTIWAVE/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<li>https://www.youtube.com/watch?v=rSZWKlXHpYI What is Frame Mode Explanation?</li>
+<li>https://www.youtube.com/watch?v=FdhHWTCetLo What is Tile Mode Explanation?</li>
+<li>https://www.youtube.com/watch?v=HF9USI5qvms Installation</li>
+<li>https://www.youtube.com/watch?v=Uv3yUU25a-Q Adobe After Effects </li>
+<li>https://www.youtube.com/watch?v=NEeejMVlyFw Autodesk Maya mentalray Frame and Tile Mode</li>
+<li>https://www.youtube.com/watch?v=gvsw509TA6E Autodesk Maya Software Frame and Tile Mode</li>
